@@ -1,0 +1,20 @@
+.item-show {
+    margin: 1rem 0;
+    background: #742935;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+    color: white;
+    padding: 1rem 1rem;
+    cursor: pointer;
+    display: flex;
+    height:fit-content;
+    justify-content: space-between;
+    border-radius: .75rem;
+  }
+
+.item-show button {
+  position:inherit;
+  left: 100%;
+  background-color: aliceblue;
+  color:black;
+
+}
